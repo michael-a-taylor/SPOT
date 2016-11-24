@@ -1,4 +1,4 @@
-# SPOT
+﻿# SPOT
 Sequential Phase Optimization Technique (SPOT) package
 
 
@@ -59,7 +59,8 @@ with permission. The Quadrant Detection Package is hosted at:
 
 
 
-*References*
+References
+
 *The Optical Tweezers Toolbox package:
 T. A. Nieminen, V. L. Y. Loke, A. B. Stilgoe, G. Knoener,
 A. M. Branczyk, N. R. Heckenberg, H. Rubinsztein-Dunlop,
