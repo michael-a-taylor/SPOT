@@ -2,6 +2,10 @@ tic
 %This applies the SPOT algorithm to find a phase profile that optimizes the
 %axial trap stiffness when applied at the back-focal plane.  
 
+% This file is part of the SPOT package, as described in [publication], and
+% hosted online at:
+% https://github.com/michael-a-taylor/SPOT
+
 % Steps:
 % 1) Define the parameters needed for the calculation.
 % 2) Calculate the basis transform between (a,b) and E(theta,phi).

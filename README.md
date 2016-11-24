@@ -22,7 +22,7 @@ errors due to the addition of very many numbers, particularly for very large
 particle size. Please let me know of any bugs you find. 
 
 Any version updates will be posted at
-[web address]
+https://github.com/michael-a-taylor/SPOT
 
 Contact me if you require help getting this to work.
 
@@ -76,7 +76,7 @@ tracking measurements in optical tweezers,” J. Opt. 15, 085701 (2013).
 
 
 *SPOT optimization:
-
+https://github.com/michael-a-taylor/SPOT
 
 
 ===================

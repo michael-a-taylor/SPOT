@@ -2,7 +2,9 @@
 % can differ from those used in the original calculations. This file
 % calculates lateral force Fx vs. x.
 
-% This file is part of the SPOT package, as described in [publication].
+% This file is part of the SPOT package, as described in [publication], and
+% hosted online at:
+% https://github.com/michael-a-taylor/SPOT
 % Please cite this if you use the code.
 
 % This allows evaluation over different angular grids or with different

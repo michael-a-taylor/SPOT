@@ -2,8 +2,9 @@ tic
 %This applies the SPOT algorithm to find a phase profile that optimizes the
 %pulling force magnitude when applied at the back-focal plane.  
 
-% This file is part of the SPOT package, as described in [publication].
-% Please cite this if you use the code.
+% This file is part of the SPOT package, as described in [publication], and
+% hosted online at:
+% https://github.com/michael-a-taylor/SPOT
 
 % Steps:
 % 1) Define the parameters needed for the calculation.
