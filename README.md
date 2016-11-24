@@ -57,7 +57,7 @@ package and the Optical Tweezers Toolbox should be appropriately referenced.
 
 Further, it also includes code from the Quadrant Detection Package, reused
 with permission. The Quadrant Detection Package is hosted at:
-
+https://github.com/michael-a-taylor/QuadrantPackage
 
 
 References
@@ -73,9 +73,11 @@ http://www.physics.uq.edu.au/people/nieminen/software.html
 *The Quadrant Detection Package:
 M. A. Taylor and W. P. Bowen, “A computational tool to characterize particle 
 tracking measurements in optical tweezers,” J. Opt. 15, 085701 (2013). 
+https://github.com/michael-a-taylor/QuadrantPackage
 
 
 *SPOT optimization:
+[Paper coming soon, I hope]
 https://github.com/michael-a-taylor/SPOT
 
 
