@@ -2,8 +2,10 @@ tic
 % This algorithm finds a phase profile that optimizes the trap stiffness
 % when applied at the back-focal plane.
 %
-% This file is part of the SPOT package, as described in [publication], and
-% hosted online at:
+% This file is part of the SPOT package, as described in 
+% M. A. Taylor, “Optimizing phase to enhance optical trap stiffness,” 
+% Sci. Rep. 7, 555 (2017), 
+% and hosted online at:
 % https://github.com/michael-a-taylor/SPOT
 %
 % Steps:
@@ -547,8 +549,11 @@ kx_mat
 
 % kx_OTT
 Power=10e-3;
- N_photflux=Power*wavelength/(6.63e-34*3.00e8);
-dx_min=abs(wavelength./(n_medium *sqrt(N_photflux)*kx_mat(2)))*sqrt(1e8) %in m, @ 100MHz bandwidth
+N_photflux=Power*wavelength/(6.63e-34*3.00e8);
+dx_min=abs(wavelength./(n_medium *sqrt(N_photflux)*kx_mat(2))) % Units:  m/rt(Hz). 
+% To estimate the minimum resolvable displacement, multiply by sqrt(Bandwidth). 
+% e.g. with 10ns averaging time, minimum resolvable displacement is
+% dx_min*sqrt(1e8)
 
 
 toc

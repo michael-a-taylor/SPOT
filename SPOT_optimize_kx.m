@@ -2,8 +2,10 @@ tic
 %This applies the SPOT algorithm to find a phase profile that optimizes the
 %lateral trap stiffness when applied at the back-focal plane.  
 %
-% This file is part of the SPOT package, as described in [publication], and
-% hosted online at:
+% This file is part of the SPOT package, as described in 
+% M. A. Taylor, “Optimizing phase to enhance optical trap stiffness,” 
+% Sci. Rep. 7, 555 (2017), 
+% and hosted online at:
 % https://github.com/michael-a-taylor/SPOT
 %
 % Steps:

@@ -2,10 +2,11 @@
 % can differ from those used in the original calculations. This file
 % calculates lateral force Fx vs. x.
 
-% This file is part of the SPOT package, as described in [publication], and
-% hosted online at:
+% This file is part of the SPOT package, as described in 
+% M. A. Taylor, “Optimizing phase to enhance optical trap stiffness,” 
+% Sci. Rep. 7, 555 (2017), 
+% and hosted online at:
 % https://github.com/michael-a-taylor/SPOT
-% Please cite this if you use the code.
 
 % This allows evaluation over different angular grids or with different
 % Nmax (to assess numerical errors) or with different particle.

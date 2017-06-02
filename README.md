@@ -77,8 +77,7 @@ https://github.com/michael-a-taylor/QuadrantPackage
 
 
 *SPOT optimization:
-[Paper coming soon, I hope]
-https://github.com/michael-a-taylor/SPOT
+M. A. Taylor, “Optimizing phase to enhance optical trap stiffness,” Sci. Rep. 7, 555 (2017).
 
 
 ===================
